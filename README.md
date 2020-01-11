@@ -11,7 +11,7 @@ Event Scheduling simulation to realize MMN queuing model
 
 ### Explain two concepts.
 
-#### What is Event Scheduling? (from wiki) [DoortoWiki](https://en.wikipedia.org/wiki/Event_scheduling)
+#### What is Event Scheduling? (from wiki) [toWiki](https://en.wikipedia.org/wiki/Event_scheduling)
 
 Event scheduling is the activity of finding a suitable time for an event such as meeting, conference, trip, etc. It is an important part of event planning that is usually carried out at its beginning stage.
 
